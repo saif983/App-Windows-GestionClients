@@ -1,0 +1,15 @@
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\bin\Debug\Guna.UI.dll
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.csproj.AssemblyReference.cache
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.connexion.resources
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.Gestion.resources
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\saif\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\Gestion\Gestion\bin\Debug\System.Data.SqlClient.xml
